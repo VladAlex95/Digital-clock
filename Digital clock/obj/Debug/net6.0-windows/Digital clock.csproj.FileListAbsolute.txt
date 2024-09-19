@@ -1,0 +1,17 @@
+C:\proiecte C# laptop\Digital clock\Digital clock\bin\Debug\net6.0-windows\Digital clock.exe
+C:\proiecte C# laptop\Digital clock\Digital clock\bin\Debug\net6.0-windows\Digital clock.deps.json
+C:\proiecte C# laptop\Digital clock\Digital clock\bin\Debug\net6.0-windows\Digital clock.runtimeconfig.json
+C:\proiecte C# laptop\Digital clock\Digital clock\bin\Debug\net6.0-windows\Digital clock.dll
+C:\proiecte C# laptop\Digital clock\Digital clock\bin\Debug\net6.0-windows\Digital clock.pdb
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital clock.csproj.AssemblyReference.cache
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital_clock.Form1.resources
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital clock.csproj.GenerateResource.cache
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital clock.AssemblyInfoInputs.cache
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital clock.AssemblyInfo.cs
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital clock.csproj.CoreCompileInputs.cache
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital clock.dll
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\refint\Digital clock.dll
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital clock.pdb
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\Digital clock.genruntimeconfig.cache
+C:\proiecte C# laptop\Digital clock\Digital clock\obj\Debug\net6.0-windows\ref\Digital clock.dll
